@@ -11,3 +11,4 @@
 
 **Скрин обработчика тестов:**
 
+![1](https://github.com/KuzminaAnn/tk_Zwekuza/blob/master/tk_Zwekuza/Images/Image.png)
