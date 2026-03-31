@@ -18,9 +18,9 @@
 
         <StackPanel Orientation="Vertical" Grid.Column="0">
             <TextBlock Text="Операнд 1" FontSize="25" Margin="20, 5" HorizontalAlignment="Center"/>
-            <TextBox x:Name="x" Width="150" FontSize="20" Margin="20, 5"/>
+            <TextBox x:Name="x" Width="150" FontSize="20" Margin="20, 5" ToolTip="Введите вещественное число"/>
             <TextBlock Text="Операнд 2" FontSize="25" Margin="20, 5" HorizontalAlignment="Center"/>
-            <TextBox x:Name="y" Width="150" FontSize="20" Margin="20, 5"/>
+            <TextBox x:Name="y" Width="150" FontSize="20" Margin="20, 5" ToolTip="Введите вещественное число"/>
         </StackPanel>
         <StackPanel Grid.Column="1" Orientation="Vertical">
             <TextBlock Text="Операции" FontSize="25" Margin="20, 5" HorizontalAlignment="Center"/>
